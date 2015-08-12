@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "msexcel-builder": "0.0.2"
+    "moment": "^2.10.6",
+    "msexcel-builder-colorfix": "0.0.2"
   }
 }
